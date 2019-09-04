@@ -1,2 +1,0 @@
-# nextzhan.github.io
-test
